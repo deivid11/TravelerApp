@@ -1,0 +1,3 @@
+[submodule "src/Traveler/TlmktBundle"]
+	path = src/Traveler/TlmktBundle
+	url = git@github.com:deivid11/TlmktBundle
